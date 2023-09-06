@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gökhaan</h1>
+<h1 align="center">Hi 👋, I'm Gökhan</h1>
 <h3 align="center">A student at Firat University, department of computer engineering.</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
