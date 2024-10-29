@@ -17,4 +17,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gokhansenturk1&" alt="gokhansenturk1" /></p>
 <hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gokhansenturk1&label=Profile%20views&color=0e75b6&style=flat" alt="gokhansenturk1" /> </p>
-<p href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></p>
